@@ -20,9 +20,9 @@
    - macOS Monterey 12.6
    - macOS Ventura 13.2
    - macOS Sonoma 14.2
-    ## Bootloader
+   ## Bootloader
    - OpenCore 0.7.9
-    ## Kexts
+   ## Kexts
    - AMDRyzenCPUPowerManagement.kext
    - AmdTscSync.kext
    - AppleALC.kext
