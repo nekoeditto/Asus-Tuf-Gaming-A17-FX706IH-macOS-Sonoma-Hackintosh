@@ -1,4 +1,4 @@
-![Asus Tuf Gaming A17 FX706IH macOS Sonoma Hackintosh](https://www.asus.com/media/global/gallery/trfp1kp4xvoudgam_setting_xxx_0_90_end_2000.png)
+## [Asus Tuf Gaming A17 FX706IH macOS Sonoma Hackintosh](https://www.asus.com/media/global/gallery/trfp1kp4xvoudgam_setting_xxx_0_90_end_2000.png)
  ## Hardware Specs
  ### Basic info
 - This is Asus Tuf Gaming A17 FX706IH-H7088
